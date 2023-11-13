@@ -1,2 +1,2 @@
 print("from local")
-print("from  tehreem local")
+print("from  tehreem    local")
